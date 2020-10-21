@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1603291159 source:c:\users\luciano\onedrive\escritorio\recuperatorio\bicicletas\stancanello.luciano.pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"fecha.h"
+	"bicicleta.h"
+	"trabajo.h"
+
+1603288420 c:\users\luciano\onedrive\escritorio\recuperatorio\bicicletas\stancanello.luciano.pplab1\tipo.h
+
+1603286200 c:\users\luciano\onedrive\escritorio\recuperatorio\bicicletas\stancanello.luciano.pplab1\color.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1603247990 c:\users\luciano\onedrive\escritorio\recuperatorio\bicicletas\stancanello.luciano.pplab1\servicio.h
+
+1603247990 c:\users\luciano\onedrive\escritorio\recuperatorio\bicicletas\stancanello.luciano.pplab1\fecha.h
+
+1603291150 c:\users\luciano\onedrive\escritorio\recuperatorio\bicicletas\stancanello.luciano.pplab1\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1603247990 c:\users\luciano\onedrive\escritorio\recuperatorio\bicicletas\stancanello.luciano.pplab1\trabajo.h
+
+1603291150 source:c:\users\luciano\onedrive\escritorio\recuperatorio\bicicletas\stancanello.luciano.pplab1\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"fecha.h"
+	"bicicleta.h"
+	"trabajo.h"
+
+1603279816 source:c:\users\luciano\onedrive\escritorio\recuperatorio\bicicletas\stancanello.luciano.pplab1\trabajo.c
+
+1603287995 source:c:\users\luciano\onedrive\escritorio\recuperatorio\bicicletas\stancanello.luciano.pplab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"fecha.h"
+	"bicicleta.h"
+	"trabajo.h"
+
+1603289256 source:c:\users\luciano\onedrive\escritorio\recuperatorio\bicicletas\stancanello.luciano.pplab1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"fecha.h"
+	"bicicleta.h"
+	"trabajo.h"
+
